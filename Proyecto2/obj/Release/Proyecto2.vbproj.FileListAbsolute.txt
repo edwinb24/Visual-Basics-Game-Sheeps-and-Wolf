@@ -1,0 +1,30 @@
+C:\Users\edwin_b24\Documents\Visual Studio 2008\Projects\Proyecto2\Proyecto2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\edwin_b24\Documents\Visual Studio 2008\Projects\Proyecto2\Proyecto2\obj\Release\Proyecto2.Form1.resources
+C:\Users\edwin_b24\Documents\Visual Studio 2008\Projects\Proyecto2\Proyecto2\obj\Release\Proyecto2.vbproj.GenerateResource.Cache
+C:\Users\edwin_b24\Documents\Visual Studio 2008\Projects\Proyecto2\Proyecto2\bin\Release\Proyecto2.exe
+C:\Users\edwin_b24\Documents\Visual Studio 2008\Projects\Proyecto2\Proyecto2\bin\Release\Proyecto2.pdb
+C:\Users\edwin_b24\Documents\Visual Studio 2008\Projects\Proyecto2\Proyecto2\bin\Release\Proyecto2.xml
+C:\Users\edwin_b24\Documents\Visual Studio 2008\Projects\Proyecto2\Proyecto2\obj\Release\Proyecto2.Resources.resources
+C:\Users\edwin_b24\Documents\Visual Studio 2008\Projects\Proyecto2\Proyecto2\obj\Release\Proyecto2.exe
+C:\Users\edwin_b24\Documents\Visual Studio 2008\Projects\Proyecto2\Proyecto2\obj\Release\Proyecto2.xml
+C:\Users\edwin_b24\Documents\Visual Studio 2008\Projects\Proyecto2\Proyecto2\obj\Release\Proyecto2.pdb
+C:\Users\edwin_b24\Desktop\Proyecto2\Proyecto2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\edwin_b24\Desktop\Proyecto2\Proyecto2\obj\Release\Proyecto2.Form1.resources
+C:\Users\edwin_b24\Desktop\Proyecto2\Proyecto2\obj\Release\Proyecto2.Resources.resources
+C:\Users\edwin_b24\Desktop\Proyecto2\Proyecto2\obj\Release\Proyecto2.vbproj.GenerateResource.Cache
+C:\Users\edwin_b24\Desktop\Proyecto2\Proyecto2\obj\Release\Proyecto2.exe
+C:\Users\edwin_b24\Desktop\Proyecto2\Proyecto2\obj\Release\Proyecto2.xml
+C:\Users\edwin_b24\Desktop\Proyecto2\Proyecto2\obj\Release\Proyecto2.pdb
+C:\Users\edwin_b24\Desktop\Proyecto2\Proyecto2\bin\Release\Proyecto2.exe
+C:\Users\edwin_b24\Desktop\Proyecto2\Proyecto2\bin\Release\Proyecto2.pdb
+C:\Users\edwin_b24\Desktop\Proyecto2\Proyecto2\bin\Release\Proyecto2.xml
+C:\Users\edwin_b24\Desktop\PROYECTO!\Proyecto2\Proyecto2\bin\Release\Proyecto2.exe
+C:\Users\edwin_b24\Desktop\PROYECTO!\Proyecto2\Proyecto2\bin\Release\Proyecto2.pdb
+C:\Users\edwin_b24\Desktop\PROYECTO!\Proyecto2\Proyecto2\bin\Release\Proyecto2.xml
+C:\Users\edwin_b24\Desktop\PROYECTO!\Proyecto2\Proyecto2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\edwin_b24\Desktop\PROYECTO!\Proyecto2\Proyecto2\obj\Release\Proyecto2.Form1.resources
+C:\Users\edwin_b24\Desktop\PROYECTO!\Proyecto2\Proyecto2\obj\Release\Proyecto2.Resources.resources
+C:\Users\edwin_b24\Desktop\PROYECTO!\Proyecto2\Proyecto2\obj\Release\Proyecto2.vbproj.GenerateResource.Cache
+C:\Users\edwin_b24\Desktop\PROYECTO!\Proyecto2\Proyecto2\obj\Release\Proyecto2.exe
+C:\Users\edwin_b24\Desktop\PROYECTO!\Proyecto2\Proyecto2\obj\Release\Proyecto2.xml
+C:\Users\edwin_b24\Desktop\PROYECTO!\Proyecto2\Proyecto2\obj\Release\Proyecto2.pdb
